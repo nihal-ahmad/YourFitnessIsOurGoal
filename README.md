@@ -1,2 +1,2 @@
 # YourFitnessIsOurGoal
-A Fitness Coach Website for client
+We Provide Best Health &amp; Wellness Coaching
